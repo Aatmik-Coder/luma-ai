@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/luma-ai/static/css/main.e6c13ad2.css",
+    "main.js": "/luma-ai/static/js/main.c99aa237.js",
+    "static/js/787.822368c7.chunk.js": "/luma-ai/static/js/787.822368c7.chunk.js",
+    "index.html": "/luma-ai/index.html",
+    "main.e6c13ad2.css.map": "/luma-ai/static/css/main.e6c13ad2.css.map",
+    "main.c99aa237.js.map": "/luma-ai/static/js/main.c99aa237.js.map",
+    "787.822368c7.chunk.js.map": "/luma-ai/static/js/787.822368c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c99aa237.js"
+  ]
+}
